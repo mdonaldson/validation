@@ -1,17 +1,16 @@
 {
   "name": "validation",
-  "version": "0.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "version": "0.0.1",
+  "description": "javascript regex validation",
+  "keywords": [
+    "validation"
+  ],
+  "author": "Matt Donaldson <matthew.donaldson@schoolimprovement.com>",
   "repository": {
     "type": "git",
     "url": "git://github.com/School-Improvement-Network/validation.git"
   },
-  "author": "",
-  "license": "BSD-2-Clause",
+  "main": "validation",
   "bugs": {
     "url": "https://github.com/School-Improvement-Network/validation/issues"
   }
